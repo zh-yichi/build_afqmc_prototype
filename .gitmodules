@@ -1,0 +1,3 @@
+[submodule "ad_afqmc_prototype"]
+	path = ad_afqmc_prototype
+	url = git@github.com:zh-yichi/ad_afqmc_prototype.git
